@@ -1,3 +1,3 @@
-# Explporatory-Data-Analysis
+# Exploratory-Data-Analysis
 
 # Created By Himanshu Salunke
